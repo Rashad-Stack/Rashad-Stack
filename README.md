@@ -9,7 +9,7 @@ love to work with people in order to build things that matter. Hi! I’m a profe
 * 🌍  I'm based in Bangladesh
 * 🖥️  See my portfolio at [Rashad Stack](http://www.rashadstack.com)
 * ✉️  You can contact me at [rashadstack@gmail.com](mailto:rashadstack@gmail.com)
-* 🚀  I'm currently working on [Fresh Foods](http://rashadstack-freshfoods.netlify.app)
+* 🚀  I'm currently working on [KS Devware](https://ksdevware.com)
 * 🧠  I'm learning Advance React Js & Next Js
 
 <a href="https://www.github.com/Rashad-Stack" target="_blank" rel="noreferrer"><img
