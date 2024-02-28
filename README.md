@@ -4,7 +4,77 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Front-End Developer.
 ---------------------------
 
-love to work with people in order to build things that matter. Hi! I’m a professional Front-End Developer. I am an expert on JavaScript frameworks: React.JS, and Express.JS. I also have solid foundations in HTML5, CSS3, Bootstrap, Tailwind, ECMAScript, React Bootstrap, Material UI, and WordPress Theme Customization. I'm eagerly looking for a career in a creative organization where I can implement my skills as well as increase my IT skills in the software process. My skills acquired as a Front-End Developer are: 1. The ability to convert Figma and PSD designs into functional web apps that use HTML5, CSS3, Reacts js, Google Firebase , and Express'js. 2. UI element binding to JavaScript object models. 3. Design scalable web architectures. 4. Work as part of a cross-functional team to provide a comprehensive user experience. 5. The ability to wear multiple hats and quickly learn new technologies. 6. The ability to test a website and identify bugs and technical problems. Specialties: => Working with people and coordinating cross-team projects => Solving problems using common sense, computer science and machine learning => Designing large scale distributed systems
+⭐"Hi! I'm a professional MERN stack developer with a passion for building meaningful web applications. The job isn't complete until my client is satisfied! I work hard to earn the best feedback from my clients. If you are looking for a web professional at an affordable price, look no further. Browse my portfolio, feedback, and projects, and please do not hesitate to reach out to me.
+
+➤ My skills extend beyond the front end as I'm proficient in back-end technologies including Node.js and MongoDB, allowing me to develop full-stack applications. I have experience converting designs from Figma and PSD into functional web apps using a combination of HTML5, CSS3, React.js, Node.js, MongoDB, and Express.
+
+I can develop any kind of Website, like:
+----------------------------------------------
+✔️ Agency/ Business Website
+✔️ Online Store / eCommerce Website
+✔️ Dropshipping Website
+✔️ Personal/Portfolio Website
+✔️ Sales Funnel/Landing Page
+✔️ News/Blog/ Magazine Website
+✔️ Government Website
+✔️ Real Estate/Realtors
+✔️ Art Gallery / Photographer Website
+✔️ Crypto/ NFT Website
+✔️ School/College/University(Education Website)
+✔️ Doctors/ Appointment Website
+✔️ Gaming/ Product / Landing
+
+Languages I am an expert in :
+---------------------------------------------------
+✔️ HTML5
+✔️ CSS3 (Tailwind CSS/ Bootstrap/SaaS)
+✔️ React JS
+✔️ Next JS
+✔️ React Native (Cli/Expo)
+✔️ Javascript
+✔️ Typescript
+✔️ Node Js
+✔️ Express Js
+✔️ Rest API
+✔️ MogoDB
+✔️ Mern Stack Web Developer
+✔️ Git Github
+✔️ Webpack
+
+Here is a summary of what I can serve you.
+------------------------------------------------------
+✔️ A Professional and Modern Next Js Website Design
+✔️ Fully Mobile/tab/Desktop Responsive Design
+✔️ Html/Css Recreation website
+✔️ Redesign/ Revamp with React js latest tech
+✔️ FIX Your modern tech stack Website/ Issues
+✔️ Add products with inventory
+✔️ Redesign your React js/Next Js website to the next level
+✔️ State management with Redux, Redux-Saga and Redux persist
+✔️ WordPress Website development
+✔️ Fullstack Website Development
+✔️ Store Design & Functionalities
+✔️ Sales or Click Funnels Landing Page Design
+✔️ Clone/Redesign or Duplicate any website
+✔️ Fully Responsive Design
+✔️ Fullstack Website, Landing Page & Store Design
+✔️ Frontend Website, Landing Page & Store Design
+✔️ Coming soon or Under the Maintenance page
+✔️ Fix any Web Site issues
+✔️ W3C validated clean code
+✔️ Multilingual Included
+✔️ On-Page SEO
+✔️ Security/ Hacking Protection
+✔️ Ecommerce functionality
+✔️ Membership System
+✔️ Web Speed Optimization 90+
+
+I also have a clear understanding of how SEO works, hosting services, migration, Linux os, U/X, and more.
+
+If you are interested in my services, feel free to contact me. I will be glad to help you and will show you my previous work.
+
+Thanks
+Rashadul Islam
 
 * 🌍  I'm based in Bangladesh
 * 🖥️  See my portfolio at [Rashad Stack](http://www.rashadstack.com)
