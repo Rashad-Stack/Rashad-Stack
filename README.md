@@ -2,7 +2,7 @@
 
 ## Junior Front-End Developer.
 
-⭐"Hi! I'm a professional MERN stack developer with a passion for building meaningful web applications.
+⭐"Hi! I'm a professional Front-End developer with a passion for building meaningful web applications.
 
 - 🌍  I'm based in Bangladesh
 - 🖥️  See my portfolio at [Rashad Stack](https://rashad-stack.netlify.app)
@@ -29,7 +29,9 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;\
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;
+![ReactJs](https://img.shields.io/badge/REACT.JS-%23007ACC.svg?&style=flat&logo=react&logoColor=white)&nbsp;
+![NextJs](https://img.shields.io/badge/NEXT.JS-000000.svg?&style=flat&logo=nextdotjs&logoColor=white)&nbsp;\
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
 ![GitLab](https://img.shields.io/badge/GITLAB-%23181717.svg?&style=flat&logo=gitlab&logoColor=white)&nbsp;
