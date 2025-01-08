@@ -1,129 +1,96 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rashadul Islam
-======================================================================================================================================
+<img src="images/svg/header_en.svg"></img>
 
-Junior Front-End Developer.
----------------------------
+## Junior Front-End Developer.
 
-⭐"Hi! I'm a professional MERN stack developer with a passion for building meaningful web applications. The job isn't complete until my client is satisfied! I work hard to earn the best feedback from my clients. If you are looking for a web professional at an affordable price, look no further. Browse my portfolio, feedback, and projects, and please do not hesitate to reach out to me.
+⭐"Hi! I'm a professional MERN stack developer with a passion for building meaningful web applications.
 
-➤ My skills extend beyond the front end as I'm proficient in back-end technologies including Node.js and MongoDB, allowing me to develop full-stack applications. I have experience converting designs from Figma and PSD into functional web apps using a combination of HTML5, CSS3, React.js, Node.js, MongoDB, and Express.
+- 🌍  I'm based in Bangladesh
+- 🖥️  See my portfolio at [Rashad Stack](https://rashad-stack.netlify.app)
+- ✉️  You can contact me at [rashadstack@gmail.com](mailto:rashadstack@gmail.com)
+- 🧠  I'm learning Advance React Js & Next Js
 
-I can develop any kind of Website, like:
-----------------------------------------------
-✔️ Agency/ Business Website
-✔️ Online Store / eCommerce Website
-✔️ Dropshipping Website
-✔️ Personal/Portfolio Website
-✔️ Sales Funnel/Landing Page
-✔️ News/Blog/ Magazine Website
-✔️ Government Website
-✔️ Real Estate/Realtors
-✔️ Art Gallery / Photographer Website
-✔️ Crypto/ NFT Website
-✔️ School/College/University(Education Website)
-✔️ Doctors/ Appointment Website
-✔️ Gaming/ Product / Landing
-
-Languages I am an expert in :
----------------------------------------------------
-✔️ HTML5
-✔️ CSS3 (Tailwind CSS/ Bootstrap/SaaS)
-✔️ React JS
-✔️ Next JS
-✔️ React Native (Cli/Expo)
-✔️ Javascript
-✔️ Typescript
-✔️ Node Js
-✔️ Express Js
-✔️ Rest API
-✔️ MogoDB
-✔️ Mern Stack Web Developer
-✔️ Git Github
-✔️ Webpack
-
-Here is a summary of what I can serve you.
-------------------------------------------------------
-✔️ A Professional and Modern Next Js Website Design
-✔️ Fully Mobile/tab/Desktop Responsive Design
-✔️ Html/Css Recreation website
-✔️ Redesign/ Revamp with React js latest tech
-✔️ FIX Your modern tech stack Website/ Issues
-✔️ Add products with inventory
-✔️ Redesign your React js/Next Js website to the next level
-✔️ State management with Redux, Redux-Saga and Redux persist
-✔️ WordPress Website development
-✔️ Fullstack Website Development
-✔️ Store Design & Functionalities
-✔️ Sales or Click Funnels Landing Page Design
-✔️ Clone/Redesign or Duplicate any website
-✔️ Fully Responsive Design
-✔️ Fullstack Website, Landing Page & Store Design
-✔️ Frontend Website, Landing Page & Store Design
-✔️ Coming soon or Under the Maintenance page
-✔️ Fix any Web Site issues
-✔️ W3C validated clean code
-✔️ Multilingual Included
-✔️ On-Page SEO
-✔️ Security/ Hacking Protection
-✔️ Ecommerce functionality
-✔️ Membership System
-✔️ Web Speed Optimization 90+
-
-I also have a clear understanding of how SEO works, hosting services, migration, Linux os, U/X, and more.
-
-If you are interested in my services, feel free to contact me. I will be glad to help you and will show you my previous work.
-
-Thanks
-Rashadul Islam
-
-* 🌍  I'm based in Bangladesh
-* 🖥️  See my portfolio at [Rashad Stack](http://www.rashadstack.com)
-* ✉️  You can contact me at [rashadstack@gmail.com](mailto:rashadstack@gmail.com)
-* 🚀  I'm currently working on [KS Devware](https://ksdevware.com)
-* 🧠  I'm learning Advance React Js & Next Js
-
-<a href="https://www.github.com/Rashad-Stack" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Rashad-Stack?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-### Skills
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
+<p align="center">
+  <a href="mailto:rashadstack@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/bruno.vitorellitacca"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/brunotacca/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <!--
+  <a href="https://twitter.com/BrunoTacca"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="http://lattes.cnpq.br/5511556848445955"><img src="https://img.shields.io/badge/lattes-FFFFFF.svg?&style=for-the-badge&&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAACEFBMVEUAAAApQ14nQFj////r7/O8xMu8xMwnQlwmP1eeqLQjO1I2WHu1vsZjdYcsS2p4h5avuMI2XIPByM44ZJCbqrk1YYwtVn5mjrcxW4UwWIAvW4YAAAUrX5EvY5ksXIspW438/P0lU4EoV4ZhhKfe5u4nPVQqQlspQVsiO1QLJUAgNEkrRmEzUnI7X4Q/Y4dLZoJWbIJsfY7Axs4tS2k7YYicutixwtO5xM/U2d7r7e8hOFA6YoqErdWBnLc+Y4guT3E7VGw9U2hufY0wU3ZCcqKGqMlZgalKa4x0h5pofJD///80XYVCdal1l7t1nMNOhr6is8VMa4muusUlSGtDdqlQeaSqu8yGrNKVtte4zN90jqhBapObrL3///9Tfad4nMF9oshskLOJnK95gIZldodEX3oxW4ajtcf///8tVXw4YYlDa5JEbZY8XX0hPlsgQmS6ydj///8uWIEuX4/r7/QvYpcuZJrV3+r///8oWYsoXZKMqcbe5u7///8VN1YnWYyKp8PI1uP5+vz///9Rd52sv9Pd5e3///////9MfrBeksdOgrdUjslPh8FNhsFFea5BcaFJgrtHgLlGgLpii7VJf7dCerNDc6MqVYA0aZ1IeKktX5EtX5AsXY0tXY0wY5YyaZ4yaaB7ncAtZJouZJouZJssY5ovZZtrkbgnXZMlXJIoXpREc6I0ZZZTfaf///+qBrbaAAAAiXRSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIl5fNRAFYND19Om8Zg5R7/zSmW8hCar98/DIVDYSE8r47OKPdgQRw+2x+7fQOgWa+G9+197Q/IsBVNrz/aQjWLL1sAw+5vbu7d3urAsQvHhn+7gbIdj2pCQCie64Wg0qqZVMEWJdG8oAAAABYktHRAMRDEzyAAAACXBIWXMAAAsSAAALEgHS3X78AAAAB3RJTUUH5QISCjIeEGUAIQAAAAFvck5UAc+id5oAAADXSURBVAjXY2BgZGJWVVPX0GRhZWNgYGDn0NLW0dXTNzA04gRyubiNTTq7TM3MLSx5eBkY+Kysu3tsbO3sHRyd+AUYBJ1devtc3fonuHt4egkxCHv7TJzk6+c/eUpAYJAIg2hwyNRpoWHhEZFR0TGxDGLicfEJiUnJKalp09MzGCQkM7Oyc3Lz8mfMnFVQyMAgVVQ8e87cefMXLFxUIs3AICNbWrZ4ydJly1eUVzAzMMjJV1atXLV6TXVNrQKQy6BYV792XUNjUzMzM4irpNzS2tbeoQLiAQAJLzuSRlKzowAAABZ0RVh0Q3JlYXRpb24gVGltZQAwNi8xOC8xMnLMg2gAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjEtMDItMThUMTA6NTA6MTQrMDA6MDBPCDl2AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIxLTAyLTE4VDEwOjUwOjE0KzAwOjAwPlWBygAAABx0RVh0U29mdHdhcmUAQWRvYmUgRmlyZXdvcmtzIENTNXG14zYAAAAASUVORK5CYII=" />
+  </a>
+  -->
 </p>
 
+<hr/>
 
-### Socials
+<details>
+  <summary><b>Main tech knowledge</b></summary>
+  <br/>
 
-<p align="left"> <a href="https://discord.com/users/rashadstack" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/thisisrashadulislam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Rashad-Stack" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rashadstack" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/rashadstack" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/rashadstack" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;\
+![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
+![GitLab](https://img.shields.io/badge/GITLAB-%23181717.svg?&style=flat&logo=gitlab&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-%23316192.svg?&style=flat&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLITE-003B57.svg?&style=flat&logo=sqlite&logoColor=white)\
+![Ant](https://img.shields.io/badge/ANT-A81C7D.svg?&style=flat&logo=apache-ant)&nbsp;
+![Maven](https://img.shields.io/badge/MAVEN-C71A36.svg?&style=flat&logo=apache-maven)&nbsp;
+![Gradle](https://img.shields.io/badge/GRADLE-02303A.svg?&style=flat&logo=gradle)&nbsp;
+![REST API](https://img.shields.io/badge/REST-02569B.svg?&style=flat&logo=rest&logoColor=white)&nbsp;
+![GRAPHQL](https://img.shields.io/badge/GRAPHQL-E10098.svg?&style=flat&logo=graphql&logoColor=white)&nbsp;\
+![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
+![IntelliJ](https://img.shields.io/badge/INTELLIJ-000000.svg?&style=flat&logo=intellij-idea)&nbsp;\
+![Clean Architecture](https://img.shields.io/badge/CLEAN%20ARCHITECTURE-6DB33F.svg?&style=flat&logoColor=white)&nbsp;
+![MVC Architecture](https://img.shields.io/badge/MVC-888888.svg?&style=flat&logoColor=white)&nbsp;
+![MVVM Architecture](https://img.shields.io/badge/MVVM-888888.svg?&style=flat&logoColor=white)&nbsp;\
 
-### Badges
+</details>
 
-<b>My GitHub Stats</b>
+<details>
+  <summary><b>Other knowledge, always learning</b></summary>
+  <br/>
 
-<a href="http://www.github.com/Rashad-Stack"><img src="https://github-readme-stats.vercel.app/api?username=Rashad-Stack&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Rashad-Stack's GitHub stats" /></a>
+![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=flat&logo=firebase&logoColor=black)&nbsp;
+![NestJS](https://img.shields.io/badge/NESTJS-E0234E.svg?&style=flat&logo=nestjs&logoColor=white)&nbsp;
+![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;\
+![Redis](https://img.shields.io/badge/REDIS-DC382D.svg?&style=flat&logo=redis&logoColor=white)&nbsp;
+![Nginx](https://img.shields.io/badge/NGINX-269539.svg?&style=flat&logo=nginx&logoColor=white)&nbsp;
+![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5.svg?&style=flat&logo=kubernetes&logoColor=white)&nbsp;
+![Puppet](https://img.shields.io/badge/PUPPET-FFAE1A.svg?&style=flat&logo=puppet&logoColor=black)&nbsp;
+![GithubActions](https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF.svg?&style=flat&logo=github-actions&logoColor=white)&nbsp;\
+![AWS](https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;
+![Onion Architecture](https://img.shields.io/badge/ONION%20ARCHITECTURE-A81C7D.svg?&style=flat&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat&logo=mongodb&logoColor=white)&nbsp;
+![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-31A8FF.svg?&style=flat&logo=adobe-photoshop&logoColor=white)&nbsp;
+![XD](https://img.shields.io/badge/XD-FFC0CB.svg?&style=flat&logo=adobe-xd&logoColor=black)&nbsp;
+![ILLUSTRATOR](https://img.shields.io/badge/ILLUSTRATOR-FFAE1A.svg?&style=flat&logo=adobe-illustrator&logoColor=black)&nbsp;\
+![Blockchain](https://img.shields.io/badge/BLOCKCHAIN-121D33.svg?&style=flat&logo=blockchain-dot-com&logoColor=white)&nbsp;
+![Cryptocurrencies](https://img.shields.io/badge/CRYPTOCURRENCY-00979D.svg?&style=flat&logo=cryptocurrency&logoColor=black)&nbsp;
+![Bitcoin](https://img.shields.io/badge/BITCOIN-0769AD.svg?&style=flat&logo=bitcoin&logoColor=black)&nbsp;
+![Ethereum](https://img.shields.io/badge/ETHEREUM-3C3C3D.svg?&style=flat&logo=ethereum&logoColor=white)&nbsp;
 
-<a href="http://www.github.com/Rashad-Stack"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rashad-Stack&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</details>
 
-<a href="http://www.github.com/Rashad-Stack"><img src="https://activity-graph.herokuapp.com/graph?username=Rashad-Stack&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<details>
+  <summary><b>GitHub Statistics</b></summary>
+  <br/>
+    <p align="center">
+   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rashad-Stack&theme=monokai" alt="GitHub Streak" /></a>
+    </p>
+    <p align="center">
+        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Rashad-Stack&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=false" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rashad-Stack&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=monokai&hide_border=false" />
+    </p>
+</details>
 
-<a href="https://github.com/Rashad-Stack" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashad-Stack&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<hr/>
 
-### Support Me
-
-<a href="https://www.buymeacoffee.com/rashadstack"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=Rashad-Stack&style=plastic&label=Views"><img>
+<img src="https://badges.pufler.dev/visits/Rashad-Stack/Rashad-Stack?color=black&logo=github" />
+</p>
