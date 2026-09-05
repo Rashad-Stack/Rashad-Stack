@@ -144,11 +144,14 @@
   <summary><b>📊 GitHub Statistics</b></summary>
   <br/>
   <p align="center">
-    <img src="https://streak-stats.demolab.com?user=Rashad-Stack&theme=monokai" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Rashad-Stack&theme=monokai&hide_border=false" alt="GitHub Streak" />
   </p>
   <p align="center">
-    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Rashad-Stack&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=false" />
-    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rashad-Stack&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=monokai&hide_border=false" />
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Rashad-Stack&show_icons=true&include_all_commits=true&count_private=true&theme=monokai&hide_border=false&cache_seconds=1800" />
+    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rashad-Stack&layout=compact&card_width=320&langs_count=5&theme=monokai&hide_border=false&cache_seconds=1800" />
+  </p>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Rashad-Stack&theme=monokai&no-frame=false&no-bg=false&margin-w=4&column=6" />
   </p>
 </details>
 
